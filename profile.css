@@ -1,0 +1,87 @@
+@media  (max-width:442px){
+    header .logo{
+        color:yellowgreen;
+        font-size: larger;
+        background-color: brown;
+       
+    }
+    header{
+        display: flex;
+        justify-content: space-between;
+        background-color: blueviolet;
+        
+    }
+    header li{
+        font-size: small;
+        margin-top: 5px;
+        list-style: none;
+        
+    }
+    .ogo{
+        
+    }
+    nav{
+        display: flex;
+        background-color: rgb(212, 223, 177);       
+    }
+    nav aside {
+        background-color: rgb(213, 194, 185);
+        width: 50px;
+        height: 140px;
+        border-radius: 4px;
+        
+    }
+    nav aside ul{
+        display: flexbox;
+        margin-left: -38px;
+        border-radius: 4px;
+    }
+    nav aside ul li{
+        font-size: smaller;
+        list-style: none;
+        width: 50px;
+        
+    }
+    nav aside ul li a {
+        color: rgb(13, 14, 14);
+        text-decoration: none;  
+         
+           
+    }
+    nav aside ul li a:hover{
+        cursor: pointer;
+        color: azure;
+        background-color: brown;
+        border-radius: 3.5px;
+    }
+    nav img{
+        width:180px;
+        lighting-color: rgb(228, 228, 141);
+    }
+     
+}
+header .logo{
+    color:yellowgreen;
+    font-size: larger;
+    background-color: brown;
+   
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    
+}
+header li{
+    font-size: small;
+    margin-top: 5px;
+    list-style: none;
+    
+}
+.ogo{
+    
+}
+nav{
+    display: flex;
+    background-color: rgb(212, 223, 177);       
+}
